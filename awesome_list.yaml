@@ -50,4 +50,8 @@ entities:
     github_id: localsend/localsend
     homepage: https://github.com/localsend/localsend
     category: apps
-    
+  - name: Gopeed
+    github_id: GopeedLab/gopeed
+    homepage: https://github.com/GopeedLab/gopeed
+    category: apps
+  

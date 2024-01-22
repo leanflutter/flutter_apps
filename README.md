@@ -8,6 +8,7 @@ A collection of apps built on Flutter desktop.
 
 ## Apps
 - [Biyi (比译)](https://biyidev.com/) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
+- [Gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [LocalSend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [Reqable](https://reqable.com/en-US/) - Reqable is a modern cross-platform project, designed for API development, testing, and debugging. Reqable fully supports HTTP1 and HTTP2 and partially supports HTTP3(QUIC).
 - [RustDesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
