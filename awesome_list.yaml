@@ -27,3 +27,14 @@ entities:
     homepage: https://qianjiapp.com/
     description: 钱迹是一个强大的个人记账软件。
     category: apps
+  - name: Superlist
+    homepage: https://www.superlist.com/
+    category: apps
+  - name: RustDesk
+    github_id: rustdesk/rustdesk
+    homepage: https://github.com/rustdesk/rustdesk
+    category: apps
+  - name: Spotube
+    github_id: KRTirtho/spotube
+    homepage: https://github.com/KRTirtho/spotube
+    category: apps
