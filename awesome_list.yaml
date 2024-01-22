@@ -38,3 +38,16 @@ entities:
     github_id: KRTirtho/spotube
     homepage: https://github.com/KRTirtho/spotube
     category: apps
+  - name: Reqable
+    homepage: https://reqable.com/en-US/
+    description: Reqable is a modern cross-platform project, designed for API development, testing, and debugging. Reqable fully supports HTTP1 and HTTP2 and partially supports HTTP3(QUIC).
+    category: apps
+  - name: 闪电藤
+    homepage: https://lightningvine.zishu.life/
+    description: 闪电藤是基于LocalSend二次开发的一款局域网文件传输工具，在它的基础上进行UI交互的重新设计，以及功能上的增强和删减，使其更加符合中国用户的使用体验。
+    category: apps
+  - name: LocalSend
+    github_id: localsend/localsend
+    homepage: https://github.com/localsend/localsend
+    category: apps
+    
