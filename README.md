@@ -4,8 +4,6 @@ A collection of apps built on Flutter desktop.
 
 ---
 
-**Table of Contents**
-
 <!-- AWESOME_LIST_MAKER -->
 
 ## Apps
