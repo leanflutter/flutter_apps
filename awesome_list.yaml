@@ -1,0 +1,13 @@
+name: flutter-desktop-apps
+description: A collection of apps built on Flutter desktop.
+categories:
+  - id: apps
+    name: Apps
+tags:
+  - id: input-method
+    name: Input Method
+entities:
+  - name: Biyi (比译)
+    homepage: https://biyidev.com/
+    github_id: biyidev/biyi_app
+    category: apps
