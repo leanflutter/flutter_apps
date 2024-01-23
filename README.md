@@ -1,6 +1,6 @@
-# flutter-desktop-apps
+# flutter-apps
 
-A collection of apps built on Flutter desktop.
+A collection of apps built on Flutter.
 
 ---
 

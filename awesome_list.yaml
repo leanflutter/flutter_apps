@@ -1,5 +1,5 @@
-name: flutter-desktop-apps
-description: A collection of apps built on Flutter desktop.
+name: flutter-apps
+description: A collection of apps built on Flutter.
 categories:
   - id: apps
     name: Apps
