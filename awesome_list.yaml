@@ -54,4 +54,8 @@ entities:
     github_id: GopeedLab/gopeed
     homepage: https://github.com/GopeedLab/gopeed
     category: apps
+  - name: Tweetx
+    homepage: https://tweetx.tool.al/
+    description: Tweetx is a third-party client for Twitter that supports all platforms.
+    category: apps
   
