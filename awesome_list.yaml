@@ -58,4 +58,13 @@ entities:
     homepage: https://tweetx.tool.al/
     description: Tweetx is a third-party client for Twitter that supports all platforms.
     category: apps
+  - name: Airclap
+    github_id: Gentleflow/Airclap
+    homepage: https://www.airclap.app/
+    description: A tool for free file transfer between Mac, iOS, Windows, and Android devices within the same local network.
+    category: apps
+  - name: Rive
+    homepage: https://rive.app/
+    description: Build interactive animations that run anywhere
+    category: apps
   
