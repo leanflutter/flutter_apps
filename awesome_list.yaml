@@ -67,4 +67,24 @@ entities:
     homepage: https://rive.app/
     description: Build interactive animations that run anywhere
     category: apps
-  
+  - name: Invoice Ninja
+    github_id: invoiceninja/admin-portal
+    livepreview_url: https://demo.invoiceninja.com/#/
+    category: apps
+  - name: Ubuntu Desktop Installer
+    description: A modern implementation of the Ubuntu Desktop installer, using subiquity as a backend and Flutter for the UI.
+    github_id: canonical/ubuntu-desktop-installer
+    category: apps
+  - name: AuthPass
+    homepage: https://authpass.app/
+    github_id: authpass/authpass
+    category: projects
+  - name: BlueBubbles
+    github_id: BlueBubblesApp/bluebubbles-app
+    category: apps
+  - name: appflowy
+    github_id: AppFlowy-IO/appflowy
+    category: apps
+  - name: AirController
+    github_id: air-controller/air-controller-desktop
+    category: apps
