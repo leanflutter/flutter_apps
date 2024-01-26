@@ -88,3 +88,6 @@ entities:
   - name: AirController
     github_id: air-controller/air-controller-desktop
     category: apps
+  - name: Hiddify-Next
+    github_id: hiddify/hiddify-next
+    category: apps
