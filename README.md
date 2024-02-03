@@ -15,7 +15,7 @@ A collection of apps built on Flutter.
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="AirController" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/air-controller/air-controller-icon.png?raw=true"/>](https://github.com/air-controller/air-controller-desktop)
 
 [**AirController**](https://github.com/air-controller/air-controller-desktop) \
-null
+A new handy and powerful Android phone assistant， powered by Flutter.
 
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Airclap" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/airclap/airclap-icon.png?raw=true"/>](https://www.airclap.app/)
 
@@ -52,7 +52,7 @@ A modern download manager that supports all platforms. Built with Golang and Flu
 [**Hiddify-Next**](https://github.com/hiddify/hiddify-next) \
 Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 
-[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Invoice Ninja" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/invoiceninja/invoiceninja-icon.png?raw=true"/>](https://github.com/invoiceninja/admin-portal)
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Invoice Ninja" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e4/bc/74/e4bc740e-3654-3ef2-fa6d-cb508312a295/AppIcon-85-220-4-2x.png/460x0w.webp"/>](https://github.com/invoiceninja/admin-portal)
 
 [**Invoice Ninja**](https://github.com/invoiceninja/admin-portal) \
 Invoice Ninja: Desktop/mobile admin portal built with Flutter
@@ -70,7 +70,7 @@ Invoice Ninja: Desktop/mobile admin portal built with Flutter
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="LocalSend" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/localsend/localsend-icon.png?raw=true"/>](https://github.com/localsend/localsend)
 
 [**LocalSend**](https://github.com/localsend/localsend) \
-null
+An open-source cross-platform alternative to AirDrop
 
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="钱迹" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/66/d6/96/66d696e9-416c-8e74-8e46-71ca324bd9ad/AppIcon-85-220-4-2x.png/460x0w.webp"/>](https://qianjiapp.com/)
 
