@@ -1,4 +1,5 @@
 name: Gopeed
+description: A modern download manager that supports all platforms. Built with Golang and Flutter.
 website: https://github.com/GopeedLab/gopeed
 repository: https://github.com/GopeedLab/gopeed
 category: apps

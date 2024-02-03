@@ -25,12 +25,12 @@ Send any file to any device. cross platform, ultra fast and easy to use.
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="appflowy" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/appflowy/appflowy-icon.png?raw=true"/>](https://github.com/AppFlowy-IO/appflowy)
 
 [**appflowy**](https://github.com/AppFlowy-IO/appflowy) \
-null
+AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="AuthPass" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/authpass/authpass-icon.png?raw=true"/>](https://authpass.app/)
 
 [**AuthPass**](https://authpass.app/) \
-null
+Free and Open Source password manager for Android, iOS, MacOS, Linux and Windows. Compatible with KeePass.
 
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Biyi" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/biyi/biyi-icon.png?raw=true"/>](http://biyidev.io)
 
@@ -40,22 +40,22 @@ Biyi is a convenient translation and dictionary app written in Flutter.
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="BlueBubbles" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/bluebubbles/bluebubbles-icon.png?raw=true"/>](https://github.com/BlueBubblesApp/bluebubbles-app)
 
 [**BlueBubbles**](https://github.com/BlueBubblesApp/bluebubbles-app) \
-null
+A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Gopeed" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/gopeed/gopeed-icon.png?raw=true"/>](https://github.com/GopeedLab/gopeed)
 
 [**Gopeed**](https://github.com/GopeedLab/gopeed) \
-null
+A modern download manager that supports all platforms. Built with Golang and Flutter.
 
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Hiddify-Next" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/hiddify-next/hiddify-next-icon.png?raw=true"/>](https://github.com/hiddify/hiddify-next)
 
 [**Hiddify-Next**](https://github.com/hiddify/hiddify-next) \
-null
+Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Invoice Ninja" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/invoiceninja/invoiceninja-icon.png?raw=true"/>](https://github.com/invoiceninja/admin-portal)
 
 [**Invoice Ninja**](https://github.com/invoiceninja/admin-portal) \
-null
+Invoice Ninja: Desktop/mobile admin portal built with Flutter
 
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="极连快传" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/jl/jl-icon.png?raw=true"/>](https://shouji.360.cn/jl.html)
 
@@ -90,7 +90,7 @@ Build interactive animations that run anywhere
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="RustDesk" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/rustdesk/rustdesk-icon.png?raw=true"/>](https://github.com/rustdesk/rustdesk)
 
 [**RustDesk**](https://github.com/rustdesk/rustdesk) \
-null
+An open-source remote desktop, and alternative to TeamViewer.
 
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Spotube" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/spotube/spotube-icon.png?raw=true"/>](https://github.com/KRTirtho/spotube)
 
@@ -102,7 +102,7 @@ null
 [**Superlist**](https://www.superlist.com/) \
 Home to all your lists
 
-[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Tweetx" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/tweetx/tweetx-icon.png?raw=true"/>](https://tweetx.tool.al/)
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Tweetx" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fd/3b/77/fd3b7786-7511-13ed-29a9-d39c9551b32d/AppIcon-85-220-4-0-0-2x-0-0.png/460x0w.webp"/>](https://tweetx.tool.al/)
 
 [**Tweetx**](https://tweetx.tool.al/) \
 Tweetx is a third-party client for Twitter that supports all platforms.
