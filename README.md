@@ -62,7 +62,7 @@ Invoice Ninja: Desktop/mobile admin portal built with Flutter
 [**极连快传**](https://shouji.360.cn/jl.html) \
 360传输神器,免登录,照片文件传输不压缩,享受极速传输体验.
 
-[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="闪电藤" src="https://cdn.zishu.life/docs/icon-192.png"/>](https://lightningvine.zishu.life/)
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="闪电藤" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/lightningvine/lightningvine-icon.png?raw=true"/>](https://lightningvine.zishu.life/)
 
 [**闪电藤**](https://lightningvine.zishu.life/) \
 新一代文件传输助手，安全 · 快速 · 稳定，还原微信传输助手的使用体验。
