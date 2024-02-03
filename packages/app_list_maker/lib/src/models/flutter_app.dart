@@ -16,8 +16,14 @@ class FlutterApp extends App {
     this.category,
   });
 
-  factory FlutterApp.fromJson(Map<String, dynamic> json) =>
-      _$FlutterAppFromJson(json);
+  factory FlutterApp.fromJson(Map<String, dynamic> json) {
+    String slug = json['slug'];
+    return _$FlutterAppFromJson({
+      ...json,
+      'icon': json['icon'] ??
+          'https://github.com/leanflutter/flutter_apps/blob/main/source/apps/$slug/$slug-icon.png?raw=true'
+    });
+  }
 
   @override
   final String slug;
@@ -36,11 +42,6 @@ class FlutterApp extends App {
   final List<String>? platforms;
 
   final String? category;
-
-  String get iconUrl {
-    if (icon != null) return icon!;
-    return 'https://github.com/leanflutter/flutter_apps/blob/main/source/apps/$slug/$slug-icon.png?raw=true';
-  }
 
   Map<String, dynamic> toJson() {
     return _$FlutterAppToJson(this)..removeWhere((key, value) => value == null);

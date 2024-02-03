@@ -18,6 +18,7 @@
     "name": "AirController",
     "description": "A new handy and powerful Android phone assistant， powered by Flutter.",
     "repository": "https://github.com/air-controller/air-controller-desktop",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/air-controller/air-controller-icon.png?raw=true",
     "category": "apps"
   },
   {
@@ -26,6 +27,7 @@
     "description": "Send any file to any device. cross platform, ultra fast and easy to use.",
     "website": "https://www.airclap.app/",
     "repository": "https://github.com/Gentleflow/Airclap",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/airclap/airclap-icon.png?raw=true",
     "platforms": [
       "android",
       "ios",
@@ -39,6 +41,7 @@
     "name": "appflowy",
     "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
     "repository": "https://github.com/AppFlowy-IO/appflowy",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/appflowy/appflowy-icon.png?raw=true",
     "category": "apps"
   },
   {
@@ -47,6 +50,7 @@
     "description": "Free and Open Source password manager for Android, iOS, MacOS, Linux and Windows. Compatible with KeePass.",
     "website": "https://authpass.app/",
     "repository": "https://github.com/authpass/authpass",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/authpass/authpass-icon.png?raw=true",
     "category": "apps"
   },
   {
@@ -54,13 +58,15 @@
     "name": "Biyi",
     "description": "Biyi is a convenient translation and dictionary app written in Flutter.",
     "website": "http://biyidev.io",
-    "repository": "https://github.com/lijy91/biyi"
+    "repository": "https://github.com/lijy91/biyi",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/biyi/biyi-icon.png?raw=true"
   },
   {
     "slug": "bluebubbles",
     "name": "BlueBubbles",
     "description": "A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!",
     "repository": "https://github.com/BlueBubblesApp/bluebubbles-app",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/bluebubbles/bluebubbles-icon.png?raw=true",
     "category": "apps"
   },
   {
@@ -77,6 +83,7 @@
     "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
     "website": "https://github.com/GopeedLab/gopeed",
     "repository": "https://github.com/GopeedLab/gopeed",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/gopeed/gopeed-icon.png?raw=true",
     "category": "apps"
   },
   {
@@ -84,6 +91,7 @@
     "name": "Hiddify-Next",
     "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
     "repository": "https://github.com/hiddify/hiddify-next",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/hiddify-next/hiddify-next-icon.png?raw=true",
     "category": "apps"
   },
   {
@@ -99,6 +107,7 @@
     "name": "极连快传",
     "description": "360传输神器,免登录,照片文件传输不压缩,享受极速传输体验.",
     "website": "https://shouji.360.cn/jl.html",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/jl/jl-icon.png?raw=true",
     "category": "apps"
   },
   {
@@ -106,6 +115,7 @@
     "name": "闪电藤",
     "description": "新一代文件传输助手，安全 · 快速 · 稳定，还原微信传输助手的使用体验。",
     "website": "https://lightningvine.zishu.life/",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/lightningvine/lightningvine-icon.png?raw=true",
     "category": "apps"
   },
   {
@@ -114,6 +124,7 @@
     "description": "An open-source cross-platform alternative to AirDrop",
     "website": "https://github.com/localsend/localsend",
     "repository": "https://github.com/localsend/localsend",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/localsend/localsend-icon.png?raw=true",
     "category": "apps"
   },
   {
@@ -137,6 +148,7 @@
     "name": "Rive",
     "description": "Build interactive animations that run anywhere",
     "website": "https://rive.app/",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/rive/rive-icon.png?raw=true",
     "platforms": [
       "macos",
       "windows"
@@ -149,6 +161,7 @@
     "description": "An open-source remote desktop, and alternative to TeamViewer.",
     "website": "https://github.com/rustdesk/rustdesk",
     "repository": "https://github.com/rustdesk/rustdesk",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/rustdesk/rustdesk-icon.png?raw=true",
     "category": "apps"
   },
   {
@@ -157,6 +170,7 @@
     "description": "🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
     "website": "https://github.com/KRTirtho/spotube",
     "repository": "https://github.com/KRTirtho/spotube",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/spotube/spotube-icon.png?raw=true",
     "platforms": [
       "android",
       "ios",
@@ -171,6 +185,7 @@
     "name": "Superlist",
     "description": "Home to all your lists",
     "website": "https://www.superlist.com/",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/superlist/superlist-icon.png?raw=true",
     "category": "apps"
   },
   {
@@ -186,6 +201,7 @@
     "name": "Ubuntu Desktop Installer",
     "description": "A modern implementation of the Ubuntu Desktop installer, using subiquity as a backend and Flutter for the UI.",
     "repository": "https://github.com/canonical/ubuntu-desktop-installer",
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/ubuntu-desktop-installer/ubuntu-desktop-installer-icon.png?raw=true",
     "category": "apps"
   },
   {
