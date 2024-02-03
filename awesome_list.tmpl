@@ -1,4 +1,0 @@
-{% for category in categories %}
-## {{ category.name }}
-{% for entity in entities %}{% if entity.category == category.id %}- [{{ entity.name }}]({{ entity.homepage }}) - {{ entity.description }}
-{% endif %}{% endfor %}{% endfor %}
