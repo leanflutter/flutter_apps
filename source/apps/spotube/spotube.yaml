@@ -1,0 +1,11 @@
+name: Spotube
+description: "🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!"
+website: https://github.com/KRTirtho/spotube
+repository: https://github.com/KRTirtho/spotube
+platforms:
+  - android
+  - ios
+  - linux
+  - macos
+  - windows
+category: apps

@@ -48,4 +48,9 @@ Biyi is a convenient translation and dictionary app written in Flutter.
 [**Rive**](https://rive.app/) \
 Build interactive animations that run anywhere
 
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Spotube" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/spotube/spotube-icon.png?raw=true"/>](https://github.com/KRTirtho/spotube)
+
+[**Spotube**](https://github.com/KRTirtho/spotube) \
+🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+
 <!-- APP_LIST_MAKER -->
