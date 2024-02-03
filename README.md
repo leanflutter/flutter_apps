@@ -37,12 +37,15 @@ A collection of apps built on Flutter.
 
 [**Airclap**](https://www.airclap.app/) \
 A tool for free file transfer between Mac, iOS, Windows, and Android devices within the same local network.
+
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Biyi" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/biyi/biyi-icon.png?raw=true"/>](http://biyidev.io)
 
 [**Biyi**](http://biyidev.io) \
 Biyi is a convenient translation and dictionary app written in Flutter.
+
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Rive" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/rive/rive-icon.png?raw=true"/>](https://rive.app/)
 
 [**Rive**](https://rive.app/) \
 Build interactive animations that run anywhere
+
 <!-- APP_LIST_MAKER -->

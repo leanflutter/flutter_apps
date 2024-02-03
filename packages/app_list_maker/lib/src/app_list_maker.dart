@@ -33,7 +33,8 @@ class AppListMaker {
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="${app.name}" src="${app.iconUrl}"/>](${app.website})
 
 [**${app.name}**](${app.website}) \\
-${app.description}''';
+${app.description}
+''';
     }).join('\n');
 
     File mdFile = File('README.md');
