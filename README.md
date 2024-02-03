@@ -112,7 +112,7 @@ Tweetx is a third-party client for Twitter that supports all platforms.
 [**Ubuntu Desktop Installer**](https://github.com/canonical/ubuntu-desktop-installer) \
 A modern implementation of the Ubuntu Desktop installer, using subiquity as a backend and Flutter for the UI.
 
-[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="微信输入法" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/wetype/wetype-icon.png?raw=true"/>](https://z.weixin.qq.com/)
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="微信输入法" src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/ea/65/95ea6505-55ca-cc73-35f3-96c09ae61358/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp"/>](https://z.weixin.qq.com/)
 
 [**微信输入法**](https://z.weixin.qq.com/) \
 微信输入法是微信官方出品的中文输入法，提供高效的输入体验、精准的推荐策略、多元的创新玩法。
