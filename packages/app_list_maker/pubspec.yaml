@@ -1,0 +1,17 @@
+name: app_list_maker
+publish_to: "none"
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  args: ^2.2.0
+  json_annotation: ^4.8.0
+  mustache_template: ^2.0.0
+  yaml: ^3.1.0
+  path: ^1.9.0
+
+dev_dependencies:
+  build_runner: ^2.3.3
+  json_serializable: ^6.7.1
+  mostly_reasonable_lints: ^0.1.1
