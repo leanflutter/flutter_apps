@@ -12,6 +12,7 @@ FlutterApp _$FlutterAppFromJson(Map<String, dynamic> json) => FlutterApp(
       description: json['description'] as String?,
       website: json['website'] as String?,
       repository: json['repository'] as String?,
+      icon: json['icon'] as String?,
       platforms: (json['platforms'] as List<dynamic>?)
           ?.map((e) => e as String)
           .toList(),
@@ -25,6 +26,7 @@ Map<String, dynamic> _$FlutterAppToJson(FlutterApp instance) =>
       'description': instance.description,
       'website': instance.website,
       'repository': instance.repository,
+      'icon': instance.icon,
       'platforms': instance.platforms,
       'category': instance.category,
     };

@@ -7,7 +7,7 @@ A collection of apps built on Flutter.
 ## Apps
 
 <!-- APP_LIST_MAKER -->
-[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="百灵创作" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/abailing/abailing-icon.png?raw=true"/>](https://www.abailing.com/)
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="百灵创作" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/af/b1/f0/afb1f043-dd46-b05e-174e-1e05d84c1c1c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp"/>](https://www.abailing.com/)
 
 [**百灵创作**](https://www.abailing.com/) \
 一款简约强大的高颜值码字软件，专为网文写作准备，各种贴心功能，助力创作

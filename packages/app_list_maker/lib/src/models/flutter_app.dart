@@ -11,6 +11,7 @@ class FlutterApp extends App {
     this.description,
     this.website,
     this.repository,
+    this.icon,
     this.platforms,
     this.category,
   });
@@ -30,11 +31,14 @@ class FlutterApp extends App {
 
   final String? repository;
 
+  final String? icon;
+
   final List<String>? platforms;
 
   final String? category;
 
   String get iconUrl {
+    if (icon != null) return icon!;
     return 'https://github.com/leanflutter/flutter_apps/blob/main/source/apps/$slug/$slug-icon.png?raw=true';
   }
 
