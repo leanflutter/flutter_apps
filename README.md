@@ -65,7 +65,7 @@ null
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="闪电藤" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/lightningvine/lightningvine-icon.png?raw=true"/>](https://lightningvine.zishu.life/)
 
 [**闪电藤**](https://lightningvine.zishu.life/) \
-闪电藤是基于LocalSend二次开发的一款局域网文件传输工具，在它的基础上进行UI交互的重新设计，以及功能上的增强和删减，使其更加符合中国用户的使用体验。
+新一代文件传输助手，安全 · 快速 · 稳定，还原微信传输助手的使用体验。
 
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="LocalSend" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/localsend/localsend-icon.png?raw=true"/>](https://github.com/localsend/localsend)
 
