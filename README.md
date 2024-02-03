@@ -42,6 +42,11 @@ Biyi is a convenient translation and dictionary app written in Flutter.
 [**BlueBubbles**](https://github.com/BlueBubblesApp/bluebubbles-app) \
 A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="钉钉" src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/5f/4e/e45f4ec8-bbc5-baba-945b-fdb4c3cae7e0/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/230x0w.webp"/>](https://www.dingtalk.com/)
+
+[**钉钉**](https://www.dingtalk.com/) \
+钉钉，是阿里巴巴集团打造的一个企业级协同办公和应用开发平台，帮助数千万企业降低沟通、协同、管理成本，提升办公效率，实现组织数字化和业务数字化，帮助未来组织释放数字生产力；通过跨组织协同，推动产业互联，使企业与上下游生态更好的链接，实现企业与企业间的数字化协同。
+
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Gopeed" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/gopeed/gopeed-icon.png?raw=true"/>](https://github.com/GopeedLab/gopeed)
 
 [**Gopeed**](https://github.com/GopeedLab/gopeed) \
