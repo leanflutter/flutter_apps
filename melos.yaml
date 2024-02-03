@@ -36,3 +36,6 @@ scripts:
 
   activate:
     run: melos exec --scope="makeapplist" -- dart pub global activate -s path .
+
+  generate:
+    run: dart packages/makeapplist/bin/main.dart
