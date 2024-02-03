@@ -1,0 +1,7 @@
+name: Rive
+description: Build interactive animations that run anywhere
+website: https://rive.app/
+platforms:
+  - macos
+  - windows
+category: apps

@@ -1,0 +1,10 @@
+name: Airclap
+description: A tool for free file transfer between Mac, iOS, Windows, and Android devices within the same local network.
+website: https://www.airclap.app/
+repository: https://github.com/Gentleflow/Airclap
+platforms:
+  - android
+  - ios
+  - macos
+  - windows
+category: apps

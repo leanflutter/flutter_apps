@@ -1,0 +1,9 @@
+name: Biyi
+description: "Biyi is a convenient translation and dictionary app written in Flutter."
+website: "http://biyidev.io"
+repository: "https://github.com/lijy91/biyi"
+screenshots:
+  - url: https://raw.githubusercontent.com/lijy91/biyi/main/screenshots/integration-popclip.gif
+keywords:
+  - dictionary
+  - translation
