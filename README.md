@@ -117,4 +117,9 @@ A modern implementation of the Ubuntu Desktop installer, using subiquity as a ba
 [**微信输入法**](https://z.weixin.qq.com/) \
 微信输入法是微信官方出品的中文输入法，提供高效的输入体验、精准的推荐策略、多元的创新玩法。
 
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="企业微信" src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/f6/31/08f6313c-b02c-682e-a961-00bb09fb58f4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp"/>](https://work.weixin.qq.com/)
+
+[**企业微信**](https://work.weixin.qq.com/) \
+腾讯微信团队为企业打造的企业通讯与办公工具。与微信一致的沟通体验，全方位连接微信，文档、会议、邮件、日程、微盘等效率工具，灵活易用的OA应用，助力企业高效沟通与管理。
+
 <!-- APP_LIST_MAKER -->
