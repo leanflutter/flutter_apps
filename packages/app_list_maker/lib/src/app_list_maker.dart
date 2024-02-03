@@ -30,9 +30,9 @@ class AppListMaker {
 
     String renderedString = apps.map((app) {
       return '''
-[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="${app.name}" src="${app.iconUrl}"/>](${app.website})
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="${app.name}" src="${app.iconUrl}"/>](${app.website ?? app.repository})
 
-[**${app.name}**](${app.website}) \\
+[**${app.name}**](${app.website ?? app.repository}) \\
 ${app.description}
 ''';
     }).join('\n');
