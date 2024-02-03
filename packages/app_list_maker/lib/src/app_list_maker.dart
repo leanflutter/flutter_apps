@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 import 'package:app_list_maker/src/models/flutter_app.dart';
+import 'package:app_list_maker/src/utils/pretty_json_string.dart';
 import 'package:path/path.dart' as path;
 import 'package:yaml/yaml.dart';
 
@@ -49,5 +50,8 @@ ${app.description}
     newContent += mdString.substring(markIndexE);
 
     mdFile.writeAsStringSync(newContent);
+
+    File indexFile = File('index.json');
+    indexFile.writeAsString(prettyJsonString(apps));
   }
 }

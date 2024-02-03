@@ -42,5 +42,7 @@ class FlutterApp extends App {
     return 'https://github.com/leanflutter/flutter_apps/blob/main/source/apps/$slug/$slug-icon.png?raw=true';
   }
 
-  Map<String, dynamic> toJson() => _$FlutterAppToJson(this);
+  Map<String, dynamic> toJson() {
+    return _$FlutterAppToJson(this)..removeWhere((key, value) => value == null);
+  }
 }
