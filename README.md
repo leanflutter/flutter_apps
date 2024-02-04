@@ -77,6 +77,11 @@ Invoice Ninja: Desktop/mobile admin portal built with Flutter
 [**LocalSend**](https://github.com/localsend/localsend) \
 An open-source cross-platform alternative to AirDrop
 
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Noise Smith" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/noise-smith/noise-smith-icon.png?raw=true"/>](https://bytemyth.com/noisesmith)
+
+[**Noise Smith**](https://bytemyth.com/noisesmith) \
+A white noise app, simple, customizable, it helps you meditate, sleep better, focus, relax and be calm.
+
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Oopz" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/oppz/oppz-icon.png?raw=true"/>](https://oopz.cn/)
 
 [**Oopz**](https://oopz.cn/) \

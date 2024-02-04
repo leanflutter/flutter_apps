@@ -1,0 +1,8 @@
+name: Noise Smith
+description: A white noise app, simple, customizable, it helps you meditate, sleep better, focus, relax and be calm.
+website: https://bytemyth.com/noisesmith
+platforms:
+  - android
+  - ios
+  - macos
+category: apps
