@@ -77,6 +77,11 @@ Invoice Ninja: Desktop/mobile admin portal built with Flutter
 [**LocalSend**](https://github.com/localsend/localsend) \
 An open-source cross-platform alternative to AirDrop
 
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Oopz" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/oppz/oppz-icon.png?raw=true"/>](https://oopz.cn/)
+
+[**Oopz**](https://oopz.cn/) \
+Oopz致力于打造一个足够好用的游戏语音软件，让玩家可以享受纯粹流畅的开黑环境。通过实现低内存、低性能损耗、高音质、极简易上手的UI设计来提升玩家的使用体验
+
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="钱迹" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/66/d6/96/66d696e9-416c-8e74-8e46-71ca324bd9ad/AppIcon-85-220-4-2x.png/460x0w.webp"/>](https://qianjiapp.com/)
 
 [**钱迹**](https://qianjiapp.com/) \
