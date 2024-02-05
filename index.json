@@ -19,6 +19,11 @@
     "description": "A new handy and powerful Android phone assistant， powered by Flutter.",
     "repository": "https://github.com/air-controller/air-controller-desktop",
     "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/air-controller/air-controller-icon.png?raw=true",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -37,11 +42,32 @@
     "category": "apps"
   },
   {
+    "slug": "appainter",
+    "name": "Appainter",
+    "description": "A material theme editor and generator for Flutter to configure and preview the overall visual theme of your material app.",
+    "website": "https://appainter.dev/",
+    "repository": "https://github.com/zeshuaro/appainter",
+    "icon": "https://github.com/zeshuaro/appainter/blob/main/assets/icon.png?raw=true",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ],
+    "category": "apps"
+  },
+  {
     "slug": "appflowy",
     "name": "appflowy",
     "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
     "repository": "https://github.com/AppFlowy-IO/appflowy",
     "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/appflowy/appflowy-icon.png?raw=true",
+    "platforms": [
+      "android",
+      "linux",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -51,6 +77,14 @@
     "website": "https://authpass.app/",
     "repository": "https://github.com/authpass/authpass",
     "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/authpass/authpass-icon.png?raw=true",
+    "platforms": [
+      "android",
+      "ios",
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ],
     "category": "apps"
   },
   {
@@ -59,7 +93,12 @@
     "description": "Biyi is a convenient translation and dictionary app written in Flutter.",
     "website": "http://biyidev.io",
     "repository": "https://github.com/lijy91/biyi",
-    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/biyi/biyi-icon.png?raw=true"
+    "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/biyi/biyi-icon.png?raw=true",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ]
   },
   {
     "slug": "bluebubbles",
@@ -67,6 +106,11 @@
     "description": "A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!",
     "repository": "https://github.com/BlueBubblesApp/bluebubbles-app",
     "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/bluebubbles/bluebubbles-icon.png?raw=true",
+    "platforms": [
+      "android",
+      "linux",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -75,6 +119,13 @@
     "description": "钉钉，是阿里巴巴集团打造的一个企业级协同办公和应用开发平台，帮助数千万企业降低沟通、协同、管理成本，提升办公效率，实现组织数字化和业务数字化，帮助未来组织释放数字生产力；通过跨组织协同，推动产业互联，使企业与上下游生态更好的链接，实现企业与企业间的数字化协同。",
     "website": "https://www.dingtalk.com/",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/5f/4e/e45f4ec8-bbc5-baba-945b-fdb4c3cae7e0/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/230x0w.webp",
+    "platforms": [
+      "android",
+      "ios",
+      "linux",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -84,6 +135,13 @@
     "website": "https://github.com/GopeedLab/gopeed",
     "repository": "https://github.com/GopeedLab/gopeed",
     "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/gopeed/gopeed-icon.png?raw=true",
+    "platforms": [
+      "android",
+      "ios",
+      "linux",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -92,6 +150,13 @@
     "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
     "repository": "https://github.com/hiddify/hiddify-next",
     "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/hiddify-next/hiddify-next-icon.png?raw=true",
+    "platforms": [
+      "android",
+      "ios",
+      "linux",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -100,6 +165,13 @@
     "description": "Invoice Ninja: Desktop/mobile admin portal built with Flutter",
     "repository": "https://github.com/invoiceninja/admin-portal",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e4/bc/74/e4bc740e-3654-3ef2-fa6d-cb508312a295/AppIcon-85-220-4-2x.png/460x0w.webp",
+    "platforms": [
+      "android",
+      "ios",
+      "linux",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -108,6 +180,12 @@
     "description": "360传输神器,免登录,照片文件传输不压缩,享受极速传输体验.",
     "website": "https://shouji.360.cn/jl.html",
     "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/jl/jl-icon.png?raw=true",
+    "platforms": [
+      "android",
+      "ios",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -116,6 +194,13 @@
     "description": "新一代文件传输助手，安全 · 快速 · 稳定，还原微信传输助手的使用体验。",
     "website": "https://lightningvine.zishu.life/",
     "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/lightningvine/lightningvine-icon.png?raw=true",
+    "platforms": [
+      "android",
+      "ios",
+      "linux",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -125,6 +210,13 @@
     "website": "https://github.com/localsend/localsend",
     "repository": "https://github.com/localsend/localsend",
     "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/localsend/localsend-icon.png?raw=true",
+    "platforms": [
+      "android",
+      "ios",
+      "linux",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -157,6 +249,12 @@
     "description": "钱迹是一个强大的个人记账软件。",
     "website": "https://qianjiapp.com/",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/66/d6/96/66d696e9-416c-8e74-8e46-71ca324bd9ad/AppIcon-85-220-4-2x.png/460x0w.webp",
+    "platforms": [
+      "android",
+      "ios",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -165,6 +263,13 @@
     "description": "Reqable is a modern cross-platform project, designed for API development, testing, and debugging. Reqable fully supports HTTP1 and HTTP2 and partially supports HTTP3(QUIC).",
     "website": "https://reqable.com/en-US/",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7f/5d/4c/7f5d4ce2-0608-b07d-ed5c-6c9156aeffb0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
+    "platforms": [
+      "android",
+      "ios",
+      "linux",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -186,6 +291,11 @@
     "website": "https://github.com/rustdesk/rustdesk",
     "repository": "https://github.com/rustdesk/rustdesk",
     "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/rustdesk/rustdesk-icon.png?raw=true",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -210,6 +320,12 @@
     "description": "Home to all your lists",
     "website": "https://www.superlist.com/",
     "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/superlist/superlist-icon.png?raw=true",
+    "platforms": [
+      "android",
+      "ios",
+      "macos",
+      "web"
+    ],
     "category": "apps"
   },
   {
@@ -218,6 +334,13 @@
     "description": "Tweetx is a third-party client for Twitter that supports all platforms.",
     "website": "https://tweetx.tool.al/",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fd/3b/77/fd3b7786-7511-13ed-29a9-d39c9551b32d/AppIcon-85-220-4-0-0-2x-0-0.png/460x0w.webp",
+    "platforms": [
+      "android",
+      "ios",
+      "linux",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -226,6 +349,9 @@
     "description": "A modern implementation of the Ubuntu Desktop installer, using subiquity as a backend and Flutter for the UI.",
     "repository": "https://github.com/canonical/ubuntu-desktop-installer",
     "icon": "https://github.com/leanflutter/flutter_apps/blob/main/source/apps/ubuntu-desktop-installer/ubuntu-desktop-installer-icon.png?raw=true",
+    "platforms": [
+      "linux"
+    ],
     "category": "apps"
   },
   {
@@ -234,6 +360,12 @@
     "description": "微信输入法是微信官方出品的中文输入法，提供高效的输入体验、精准的推荐策略、多元的创新玩法。",
     "website": "https://z.weixin.qq.com/",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/ea/65/95ea6505-55ca-cc73-35f3-96c09ae61358/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+    "platforms": [
+      "android",
+      "ios",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   },
   {
@@ -242,6 +374,13 @@
     "description": "腾讯微信团队为企业打造的企业通讯与办公工具。与微信一致的沟通体验，全方位连接微信，文档、会议、邮件、日程、微盘等效率工具，灵活易用的OA应用，助力企业高效沟通与管理。",
     "website": "https://work.weixin.qq.com/",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/f6/31/08f6313c-b02c-682e-a961-00bb09fb58f4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
+    "platforms": [
+      "android",
+      "ios",
+      "linux",
+      "macos",
+      "windows"
+    ],
     "category": "apps"
   }
 ]

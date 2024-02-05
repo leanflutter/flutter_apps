@@ -1,4 +1,6 @@
 name: Ubuntu Desktop Installer
 description: A modern implementation of the Ubuntu Desktop installer, using subiquity as a backend and Flutter for the UI.
 repository: https://github.com/canonical/ubuntu-desktop-installer
+platforms:
+  - linux
 category: apps

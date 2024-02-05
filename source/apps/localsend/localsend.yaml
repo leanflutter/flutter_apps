@@ -2,4 +2,10 @@ name: LocalSend
 description: An open-source cross-platform alternative to AirDrop
 website: https://github.com/localsend/localsend
 repository: https://github.com/localsend/localsend
+platforms:
+  - android
+  - ios
+  - linux
+  - macos
+  - windows
 category: apps

@@ -2,4 +2,10 @@ name: Invoice Ninja
 description: "Invoice Ninja: Desktop/mobile admin portal built with Flutter"
 repository: https://github.com/invoiceninja/admin-portal
 icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e4/bc/74/e4bc740e-3654-3ef2-fa6d-cb508312a295/AppIcon-85-220-4-2x.png/460x0w.webp
+platforms:
+  - android
+  - ios
+  - linux
+  - macos
+  - windows
 category: apps

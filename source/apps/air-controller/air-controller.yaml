@@ -1,4 +1,8 @@
 name: AirController
 description: A new handy and powerful Android phone assistant， powered by Flutter.
 repository: https://github.com/air-controller/air-controller-desktop
+platforms:
+  - linux
+  - macos
+  - windows
 category: apps

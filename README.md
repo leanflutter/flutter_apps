@@ -22,6 +22,11 @@ A new handy and powerful Android phone assistant， powered by Flutter.
 [**Airclap**](https://www.airclap.app/) \
 Send any file to any device. cross platform, ultra fast and easy to use.
 
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Appainter" src="https://github.com/zeshuaro/appainter/blob/main/assets/icon.png?raw=true"/>](https://appainter.dev/)
+
+[**Appainter**](https://appainter.dev/) \
+A material theme editor and generator for Flutter to configure and preview the overall visual theme of your material app.
+
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="appflowy" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/appflowy/appflowy-icon.png?raw=true"/>](https://github.com/AppFlowy-IO/appflowy)
 
 [**appflowy**](https://github.com/AppFlowy-IO/appflowy) \

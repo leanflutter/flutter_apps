@@ -1,4 +1,9 @@
 name: appflowy
 description: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 repository: https://github.com/AppFlowy-IO/appflowy
+platforms:
+  - android
+  - linux
+  - macos
+  - windows
 category: apps

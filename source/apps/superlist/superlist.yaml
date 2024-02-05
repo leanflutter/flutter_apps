@@ -1,4 +1,9 @@
 name: Superlist
 description: Home to all your lists
 website: https://www.superlist.com/
+platforms:
+  - android
+  - ios
+  - macos
+  - web
 category: apps

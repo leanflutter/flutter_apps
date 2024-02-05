@@ -2,5 +2,10 @@ name: 钉钉
 description: 钉钉，是阿里巴巴集团打造的一个企业级协同办公和应用开发平台，帮助数千万企业降低沟通、协同、管理成本，提升办公效率，实现组织数字化和业务数字化，帮助未来组织释放数字生产力；通过跨组织协同，推动产业互联，使企业与上下游生态更好的链接，实现企业与企业间的数字化协同。
 website: https://www.dingtalk.com/
 icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/5f/4e/e45f4ec8-bbc5-baba-945b-fdb4c3cae7e0/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/230x0w.webp
+platforms:
+  - android
+  - ios
+  - linux
+  - macos
+  - windows
 category: apps
-

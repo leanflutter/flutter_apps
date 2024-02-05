@@ -2,4 +2,11 @@ name: AuthPass
 description: Free and Open Source password manager for Android, iOS, MacOS, Linux and Windows. Compatible with KeePass.
 website: https://authpass.app/
 repository: https://github.com/authpass/authpass
+platforms:
+  - android
+  - ios
+  - linux
+  - macos
+  - windows
+  - web
 category: apps

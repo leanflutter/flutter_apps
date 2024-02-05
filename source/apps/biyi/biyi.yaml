@@ -4,6 +4,10 @@ website: "http://biyidev.io"
 repository: "https://github.com/lijy91/biyi"
 screenshots:
   - url: https://raw.githubusercontent.com/lijy91/biyi/main/screenshots/integration-popclip.gif
+platforms:
+  - linux
+  - macos
+  - windows
 keywords:
   - dictionary
   - translation

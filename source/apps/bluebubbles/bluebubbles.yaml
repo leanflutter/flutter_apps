@@ -1,4 +1,8 @@
 name: BlueBubbles
 description: A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 repository: https://github.com/BlueBubblesApp/bluebubbles-app
+platforms:
+  - android
+  - linux
+  - windows
 category: apps
