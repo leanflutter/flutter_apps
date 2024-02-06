@@ -47,6 +47,11 @@ Biyi is a convenient translation and dictionary app written in Flutter.
 [**BlueBubbles**](https://github.com/BlueBubblesApp/bluebubbles-app) \
 A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Butterfly" src="https://raw.githubusercontent.com/LinwoodDev/butterfly/develop/app/images/logo.png"/>](https://docs.butterfly.linwood.dev/)
+
+[**Butterfly**](https://docs.butterfly.linwood.dev/) \
+🎨 Powerful, minimalistic, cross-platform, opensource note-taking app 🎨
+
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="钉钉" src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/5f/4e/e45f4ec8-bbc5-baba-945b-fdb4c3cae7e0/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/230x0w.webp"/>](https://www.dingtalk.com/)
 
 [**钉钉**](https://www.dingtalk.com/) \

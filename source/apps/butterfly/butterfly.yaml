@@ -1,0 +1,12 @@
+name: Butterfly
+description: "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app 🎨"
+website: https://docs.butterfly.linwood.dev/
+repository: https://github.com/LinwoodDev/Butterfly
+icon: https://raw.githubusercontent.com/LinwoodDev/butterfly/develop/app/images/logo.png
+platforms:
+  - android
+  - linux
+  - macos
+  - windows
+  - web
+category: apps

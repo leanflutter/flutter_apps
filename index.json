@@ -114,6 +114,22 @@
     "category": "apps"
   },
   {
+    "slug": "butterfly",
+    "name": "Butterfly",
+    "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app 🎨",
+    "website": "https://docs.butterfly.linwood.dev/",
+    "repository": "https://github.com/LinwoodDev/Butterfly",
+    "icon": "https://raw.githubusercontent.com/LinwoodDev/butterfly/develop/app/images/logo.png",
+    "platforms": [
+      "android",
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ],
+    "category": "apps"
+  },
+  {
     "slug": "dingtalk",
     "name": "钉钉",
     "description": "钉钉，是阿里巴巴集团打造的一个企业级协同办公和应用开发平台，帮助数千万企业降低沟通、协同、管理成本，提升办公效率，实现组织数字化和业务数字化，帮助未来组织释放数字生产力；通过跨组织协同，推动产业互联，使企业与上下游生态更好的链接，实现企业与企业间的数字化协同。",
