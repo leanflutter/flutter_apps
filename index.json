@@ -236,6 +236,20 @@
     "category": "apps"
   },
   {
+    "slug": "musicpod",
+    "name": "Musicpod",
+    "description": "Music, radio, television and podcast player for the Ubuntu Desktop",
+    "repository": "https://github.com/ubuntu-flutter-community/musicpod",
+    "icon": "https://github.com/ubuntu-flutter-community/musicpod/blob/main/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png?raw=true",
+    "platforms": [
+      "android",
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "category": "apps"
+  },
+  {
     "slug": "noise-smith",
     "name": "Noise Smith",
     "description": "A white noise app, simple, customizable, it helps you meditate, sleep better, focus, relax and be calm.",

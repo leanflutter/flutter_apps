@@ -1,0 +1,10 @@
+name: Musicpod
+description: Music, radio, television and podcast player for the Ubuntu Desktop
+repository: https://github.com/ubuntu-flutter-community/musicpod
+icon: https://github.com/ubuntu-flutter-community/musicpod/blob/main/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png?raw=true
+platforms:
+  - android
+  - linux
+  - macos
+  - windows
+category: apps
