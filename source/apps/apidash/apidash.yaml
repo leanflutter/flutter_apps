@@ -1,0 +1,9 @@
+name: API Dash
+description: API Dash is a beautiful open-source cross-platform API Client built using Flutter which can help you easily create & customize your API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.
+website: https://apidash.dev/
+repository: https://github.com/foss42/apidash
+platforms:
+  - linux
+  - macos
+  - windows
+category: apps

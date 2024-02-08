@@ -22,6 +22,11 @@ A new handy and powerful Android phone assistant， powered by Flutter.
 [**Airclap**](https://www.airclap.app/) \
 Send any file to any device. cross platform, ultra fast and easy to use.
 
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="API Dash" src="https://github.com/leanflutter/flutter_apps/blob/main/source/apps/apidash/apidash-icon.png?raw=true"/>](https://apidash.dev/)
+
+[**API Dash**](https://apidash.dev/) \
+API Dash is a beautiful open-source cross-platform API Client built using Flutter which can help you easily create & customize your API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.
+
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Appainter" src="https://github.com/zeshuaro/appainter/blob/main/assets/icon.png?raw=true"/>](https://appainter.dev/)
 
 [**Appainter**](https://appainter.dev/) \
