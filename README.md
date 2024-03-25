@@ -137,6 +137,11 @@ An open-source remote desktop, and alternative to TeamViewer.
 [**Superlist**](https://www.superlist.com/) \
 Home to all your lists
 
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="ThinkBuddy" src="https://framerusercontent.com/images/1432JiXkYaAIZvPsIQ8AsNhzj9Q.png"/>](https://thinkbuddy.ai)
+
+[**ThinkBuddy**](https://thinkbuddy.ai) \
+Simplify life with AI at your fingertips. All-in-one AI suite that seamlessly integrates your voice to maximize your productivity with the best price on Mac.
+
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Tweetx" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fd/3b/77/fd3b7786-7511-13ed-29a9-d39c9551b32d/AppIcon-85-220-4-0-0-2x-0-0.png/460x0w.webp"/>](https://tweetx.tool.al/)
 
 [**Tweetx**](https://tweetx.tool.al/) \
