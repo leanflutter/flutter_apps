@@ -57,6 +57,11 @@ A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux
 [**Butterfly**](https://docs.butterfly.linwood.dev/) \
 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app 🎨
 
+[<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Buzz" src="https://assets-global.website-files.com/61c979b6088c446643dc8e20/633c66f7d8bfba2c47f362ab_buzz-webclip.png"/>](https://www.joinbuzz.com)
+
+[**Buzz**](https://www.joinbuzz.com) \
+Buzz is the menu bar app that notifies you about everything from pull requests to calendar events in one place for fast access without having to switch apps.
+
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="钉钉" src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/5f/4e/e45f4ec8-bbc5-baba-945b-fdb4c3cae7e0/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/230x0w.webp"/>](https://www.dingtalk.com/)
 
 [**钉钉**](https://www.dingtalk.com/) \

@@ -144,6 +144,18 @@
     "category": "apps"
   },
   {
+    "slug": "buzz",
+    "name": "Buzz",
+    "description": "Buzz is the menu bar app that notifies you about everything from pull requests to calendar events in one place for fast access without having to switch apps.",
+    "website": "https://www.joinbuzz.com",
+    "icon": "https://assets-global.website-files.com/61c979b6088c446643dc8e20/633c66f7d8bfba2c47f362ab_buzz-webclip.png",
+    "platforms": [
+      "macos",
+      "windows"
+    ],
+    "category": "apps"
+  },
+  {
     "slug": "dingtalk",
     "name": "钉钉",
     "description": "钉钉，是阿里巴巴集团打造的一个企业级协同办公和应用开发平台，帮助数千万企业降低沟通、协同、管理成本，提升办公效率，实现组织数字化和业务数字化，帮助未来组织释放数字生产力；通过跨组织协同，推动产业互联，使企业与上下游生态更好的链接，实现企业与企业间的数字化协同。",
